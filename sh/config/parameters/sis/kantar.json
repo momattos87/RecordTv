@@ -1,0 +1,11 @@
+{
+  "type": "API",
+  "origin": "Kantar",
+  "url": "https://api2.instarsuite.com/ibope_brasil/IADS.asmx/GetData?iads_params",
+  "user_api": "RECORD_TV_API_1",
+  "pass_api": "2Hqrv2Ak",
+  "idLang": "EN",
+  "idApp": "3000",
+  "out_format": "CSV",
+  "temp_path": "/tmp"
+}

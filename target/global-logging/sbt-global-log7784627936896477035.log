@@ -1,0 +1,59 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(package, None, None)[0m
+[0m[[0m[33mwarn[0m] [0m[0mbuild source files have changed[0m
+[0m[[0m[33mwarn[0m] [0m[0mmodified files: [0m
+[0m[[0m[33mwarn[0m] [0m[0m  /Users/morganamattos/IdeaProjects/RecordTv/build.sbt[0m
+[0m[[0m[33mwarn[0m] [0m[0mApply these changes by running `reload`.[0m
+[0m[[0m[33mwarn[0m] [0m[0mAutomatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.[0m
+[0m[[0m[33mwarn[0m] [0m[0mDisable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / package[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[33mwarn[0m] [0m[0mThere may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 4 Scala sources and 6 Java sources to /Users/morganamattos/IdeaProjects/RecordTv/target/scala-2.11/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Carrega_Parametros.java:4:1: package com.typesafe.config does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mcom.typesafe.config.Config[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Carrega_Parametros.java:9:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Config[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class br.com.record.instar.app.Carrega_Parametros[0m
+[0m[[0m[31merror[0m] [0m[0mConfig[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Carrega_Parametros.java:15:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Config[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class br.com.record.instar.app.Carrega_Parametros[0m
+[0m[[0m[31merror[0m] [0m[0mConfig[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Carrega_Parametros.java:21:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Config[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class br.com.record.instar.app.Carrega_Parametros[0m
+[0m[[0m[31merror[0m] [0m[0mConfig[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Carrega_Parametros.java:27:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Config[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class br.com.record.instar.app.Carrega_Parametros[0m
+[0m[[0m[31merror[0m] [0m[0mConfig[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Carrega_Parametros.java:41:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Config[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class br.com.record.instar.app.Carrega_Parametros[0m
+[0m[[0m[31merror[0m] [0m[0mConfig[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Carrega_Parametros.java:53:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Config[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class br.com.record.instar.app.Carrega_Parametros[0m
+[0m[[0m[31merror[0m] [0m[0mConfig[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Instar_Ingestion.java:4:1: package com.typesafe.config does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mcom.typesafe.config.ConfigFactory[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Instar_Ingestion.java:21:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable ConfigFactory[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class br.com.record.instar.app.Instar_Ingestion[0m
+[0m[[0m[31merror[0m] [0m[0mConfigFactory[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Instar_Ingestion.java:23:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable ConfigFactory[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class br.com.record.instar.app.Instar_Ingestion[0m
+[0m[[0m[31merror[0m] [0m[0mConfigFactory[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Instar_Ingestion.java:28:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable ConfigFactory[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class br.com.record.instar.app.Instar_Ingestion[0m
+[0m[[0m[31merror[0m] [0m[0mConfigFactory[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/morganamattos/IdeaProjects/RecordTv/src/main/java/br/com/record/instar/app/Instar_Ingestion.java:29:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable ConfigFactory[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class br.com.record.instar.app.Instar_Ingestion[0m
+[0m[[0m[31merror[0m] [0m[0mConfigFactory[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) javac returned non-zero exit code[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 23 s, completed 22/04/2021 23:47:07[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

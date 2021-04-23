@@ -1,0 +1,13 @@
+{
+  "index":1,
+  "id":"00001",
+  "descricao":"Parametros Sistemicos DEV",
+  "versao":"00001",
+  "projeto":"Big Data",
+  "cliente":"RecordTV",
+  "environments_type":"DEV",
+  "directory_home":"/sistemas/bigdata/dev",
+  "directory_bruto":"/datalake/dados_brutos",
+  "directory_tratado":"/datalake/dados_tratados",
+  "directory_jobs":"/parameters/jobs"
+}
